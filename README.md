@@ -1,6 +1,6 @@
 # Google Keen UI Cloned
 
-A clone of the Google Keen application's UI for educational purposes and fun
+A clone of the Google Keen application's UI for educational purposes...
 <br><br>
 <a href='https://aiedrow.github.io/keen/index2.html'><button>Click Here For Live Preview</button></a>
 
