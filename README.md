@@ -2,7 +2,7 @@
 
 A clone of the Google Keen application's UI for educational purposes...
 <br><br>
-<a href='https://aiedrow.github.io/keen/index2.html'><button>Click Here For Live Preview</button></a>
+<a href='https://aiedrow.github.io/keen/index2.html'><button style='border:0;padding:10px 20px;border-radius:6px;background:#fff;'>Click Here For Live Preview</button></a>
 
 # Mobile Preview
 
